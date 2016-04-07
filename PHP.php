@@ -1,3 +1,4 @@
+<?php 
 /**
  * Input: hex color
  * Output: hsl(in ranges from 0-1)
